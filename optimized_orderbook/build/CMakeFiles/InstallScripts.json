@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/rubixx/Developer/quantshi/lock-free-orderbook/optimized_orderbook/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
